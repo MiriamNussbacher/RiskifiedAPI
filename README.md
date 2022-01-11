@@ -1,5 +1,5 @@
 Hi!
-Thanks for reading my assignment. I worked pretty hard on it.
+Thanks for reading my assignment. 
 
 The assignment is using .net 5.0 and requires vs 2019 version 16.8 or higher.
 If this is an issue ( the skeleton on github was written in .net 3.1), I'll try to see how to work this out.
