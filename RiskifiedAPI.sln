@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RiskifiedAPI", "RiskifiedAPI\RiskifiedAPI.csproj", "{0A2AFB6C-7907-4A57-BFA9-C7AF811888CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A2AFB6C-7907-4A57-BFA9-C7AF811888CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A2AFB6C-7907-4A57-BFA9-C7AF811888CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A2AFB6C-7907-4A57-BFA9-C7AF811888CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A2AFB6C-7907-4A57-BFA9-C7AF811888CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EE34652-F6CD-4B97-B833-DE963E066E46}
+	EndGlobalSection
+EndGlobal
