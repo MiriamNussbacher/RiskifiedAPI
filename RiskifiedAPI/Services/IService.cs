@@ -12,9 +12,9 @@ namespace RiskifiedAPI
         Task<bool> sendPayment(Payment payment, string merchantName);
         
         //implemented by each service
-        string buildPaymentBody(Payment payment);
+      //  string buildPaymentBody(Payment payment);
 
-        bool handleResponse(string response);
+       // bool handleResponse(string response);
 
 
     }
